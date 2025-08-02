@@ -1,5 +1,5 @@
-# mirr0rloop by Ben.Molotovich@gmail.com
-
+# copyrite NSA 2025 mirr0rloop.blogpot.com by jacksonxhacker@proton.me
+Ben.Molotovich@gmail.com
 > *“A loop that reflects itself,  
 > waiting for the moment to close.”*
 
